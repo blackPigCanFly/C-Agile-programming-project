@@ -1,3 +1,3 @@
 # C# -Agile-programming-project
 This is a parts purchase app
-To start project run "Program.cs" file
+To start the app  run "Program.cs" file
