@@ -1,0 +1,48 @@
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.exe.config
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.exe
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.pdb
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Properties.Resources.resources
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.csproj.GenerateResource.Cache
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.exe
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.pdb
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Form1.resources
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.mdb
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Form2.resources
+C:\gitforall\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.csprojResolveAssemblyReference.cache
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.exe.config
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.exe
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.pdb
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.mdb
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.exe
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\bin\Debug\frcparts.pdb
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.csprojResolveAssemblyReference.cache
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Form1.resources
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Form2.resources
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.Properties.Resources.resources
+C:\Users\Macbook1\Desktop\新建文件夹 (3)\c-xianyu-firstfrcparts\frcparts\frcparts\obj\Debug\frcparts.csproj.GenerateResource.Cache
+D:\Unisa 1605\frcparts\frcparts\bin\Debug\frcparts.exe.config
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.exe
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.pdb
+D:\Unisa 1605\frcparts\frcparts\bin\Debug\frcparts.mdb
+D:\Unisa 1605\frcparts\frcparts\bin\Debug\frcparts.exe
+D:\Unisa 1605\frcparts\frcparts\bin\Debug\frcparts.pdb
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.csprojResolveAssemblyReference.cache
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.Form1.resources
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.Form2.resources
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.Properties.Resources.resources
+D:\Unisa 1605\frcparts\frcparts\obj\Debug\frcparts.csproj.GenerateResource.Cache
+C:\Users\Macbook1\Desktop\test\frcparts1\frcparts\frcparts\bin\Debug\frcparts.exe.config
+C:\Users\Macbook1\Desktop\test\frcparts1\frcparts\frcparts\obj\Debug\frcparts.exe
+C:\Users\Macbook1\Desktop\test\frcparts1\frcparts\frcparts\obj\Debug\frcparts.pdb
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\bin\Debug\frcparts.mdb
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\bin\Debug\frcparts.exe.config
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\bin\Debug\frcparts.exe
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\bin\Debug\frcparts.pdb
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.Form1.resources
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.Form2.resources
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.Properties.Resources.resources
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.exe
+C:\Users\PC\Downloads\NewDownloadPlace\frcparts1\frcparts\frcparts\obj\Debug\frcparts.pdb
