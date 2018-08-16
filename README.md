@@ -1,3 +1,3 @@
 # C# -Agile-programming-project
-This is a parts purchase app
+Use FRC app to track the weight and expenditure
 To start the app  run "Program.cs" file
